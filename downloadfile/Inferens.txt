@@ -1,0 +1,34 @@
+Inferens
+
+
+
+Population till stickprov är urval
+
+Stickprov till population är inferens 
+
+värdarna i stickprovet skattningar estimate "slumpvärder"
+
+Bias = 0 väntevärdesrikttig
+bias < eller > 0 ej väntevärdersriktig
+
+
+Väntevärdersriktig skattning:
+
+Bias skillnad mellan parametervärd och väntevärd för estimate 
+
+Vad är medelfelet SEM
+
+Standardavvikelsen till stohetishe variabeln X
+
+
+En effektiv skattning har låg variaans 
+
+Tre fördelningar 
+fördelningen i population x N(median, standardavvikelse)
+
+
+
+
+
+
+

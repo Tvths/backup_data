@@ -1,0 +1,158 @@
+sympathy: đồng cảm với những gì mình chưa trải qua
+empathy: đồng cảm với những gì mình đã trải qua
+apathy: thờ ơ, không đồng cảm
+malevolent: tà ác, tà tâm
+exploit: lợi dụng
+redundant: dư thừa
+intention: chủ đích 
+plead: biện hộ
+karma: nhiệp chướng 
+sleep tight: chủ ngon nhé
+antarctica: nam cực
+arctic: bắc cực
+indicates: chỉ ra, cho thấy 
+optimistic: lạc quan
+togetherness: sự đoàn kết 
+existence: sự tồn tại
+marriage: kết hôn
+mayhem: tình trạng lộn xộn
+controversial one: 1 thứ gây tranh cãi
+integrity: chính trực
+reliable: đáng tin cậy
+appropriate: thích hợp, phù hợp
+context: bối cảnh 
+extent: phạm vi
+consider: xem xét 
+admits: thừa nhận 
+redemption: chuộc lỗi
+interative: tương tác
+worker's compensation: bồi thường lao động
+torment: sự dày vò
+prevails: chiếm ưu thế
+to grasp: nắm bắt, thấu hiểu 
+to reconcile: hòa giải
+sector: lĩnh vực
+county coucil: hội đồng quận
+proficient: thành thạo - skiclig(Swedish)
+acquire: nhận được, tiếp thu được - tillägna sig (Swedish)
+implement: thực hiện - genomföra (Swedish)
+diversity: đa dạng - mångfald (Swedish)
+equation: phương trinh - ekvationer (Swedish)
+narrative text: văn bản tường thuật - berättande text (Swedish)
+expertise: chuyên môn - expertis (Swedish)
+seamlessly: liền mạch, không đưt quãng - sömlöst(Swedish)
+intergrate: tích hợp - intergrerar
+snippet: đoạn trích - utdrag (Swedish)
+enhance: nâng cao - förbättra
+typecasting: đóng khung - typecasting (Swedish)
+entity: thực thể - entitet(Swedish)
+store : chứa, lưu trữ - lagnar (Swedish)
+compatible: tương thích - kompatibel (Swedish)
+quotation: trích dẫn - citat (Swedish)
+boundary: ranh giới - gräns (Swedish)
+occurrence: sự kiện xảy ra - häldelser (Swedish)
+concatenate: nối tiếp - sammanfoga (Swedish)
+initially: bắt đầu - initial (Swedish)
+retrieve: lấy lại - hämta (Swedish)
+scenario: kịch bản - scenario (Swedish)
+alert: cảnh báo - varningar (Swedish)
+trigger: kích hoạt - utlösa (Swedish)
+on the other hand: mặt khác, trái lại ‑ å andra sidan (Swedish)
+arise: nảy sinh điều gì đó - uppstår (Swedish)
+apptemt: nỗ lực để làm gì đó - försök (Swedish)
+attributeerror: lỗi thuộc tính
+prevent: ngăn chặn - förhindra (Swedish)
+crashing: bị phá vỡ - kraschar (Swedish)
+illustrate: minh họa - illustrera (Swedish)
+numerator: tử số - täljare (Swedish)
+denominator: mẫu số - nämnare (Swedish)
+accelerate: bigin to move more quickly - gia tốc - accelerera (Swedish)
+accustomed: quen thuộc với - van vid någonting (Swedish)
+initialize: khởi tạo - initiera (Swedish)
+attribute: thuộc tính - attribute (Swedish)
+pointer or cursor: con trỏ - markör (Swedish)
+particular: cụ thể - en viss (Swedish)
+signify: biểu thị - betyda (Swedish)
+concurrent: đồng thời - samverkande (Swedish)
+asynchronous: không đồng bộ - asynkron (Swedish)
+interation: lặp lại - interation (Swedish)
+sapodilla: hồng xiêm - sapotillplommon (Swedish)
+brevity: ngắn gọn - korthet (Swedish)
+alias: bí danh - alias (Swedish)
+examine: Nghiem cuu - undersöka (Swedish)
+corresponding: tương ứng  - motsvarande (Swedish)
+context: bối cảnh - sammanhang (Swedish)
+intergrate: tichs hop - integrera (Swedish)
+navigation: dan duong - navigering (Swedish)
+a binary: so nhi phan - en binär (Swedish)
+distinct: riêng biệt - distinct (Swedish)
+protocols: giao thức - protokoll (Swedish)
+referred to: được gọi là - kallas för (Swedish)
+refer: tham khảo - hänvisa (Swedish)
+eager: háo hức, hang hái, ... - ivrig (Swedish)
+in a similar manner: với 1 cách tương tự - på liknade sätt (Swedish)
+authentication: xác thực - autentisering (Swedish)
+Extraction and Processing: trích xuất và xử lý - BNP datautvinning och bearbetning (Swedish)
+scrapping: trích xuất một phần - skrappning (Swedish)
+fetch: tìm đến, lấy, với lấy, thu huts,... - hämta, avhämta, nå, framkalla, locka fram,... (Swedish)
+to parse: phân tích - att analysera (Swedish)
+a snippet: một đoạn trích - ett utdrag (Swedish)
+ampersand: ký tự và - och tecken (Swedish)
+query: truy vấn - fråga (Swedish)
+intestien: nội tạng - inälvor (Swedish)
+regenerate: tái tạo - regenerera (Swedish)
+declare: tuyên bố - deklarera (Swedish)
+integral role: vai trò không thể tách rời - integrerad roll (Swedish)
+readable manner: dễ đọc - läsbart sätt (Swedish)
+hierarchical: thứ bậc - hierarkisk (Swedish)
+paragraph: doạn văn - paragraph (Swedish)
+derived: có nguồn gốc - härledd (Swedish)
+serialization: tuần tự hóa - serialisering (Swedish)
+deserialization: hủy tuần tự hóa - deserialisering (Swedish)
+indent: thụt lề - indrag (Swedish)
+interpreter: người phiên dịch - tolkare (Swedish)
+authenticate and authorize: xác thực và ủy quyền - autentisera och auktorisera (Swedish)
+facilitate: ưa tiên - främja, underlätta (Swedish)
+decentralized: phi tập trung - decentraliserat (Swedish)
+illustrate: minh họa - illustrera (Swedish)
+convenient: thuận lợi - bekväm (Swedish)
+delimiter: dấu phân cách 
+intended: dự định dành cho - avsedd (Swedish)
+pågående: đang diễn ra - ongoing, running (Swedish)
+proportion: tỷ lệ - andel (Swedish)
+units of stock: đơn vị cổ phiếu - aktier (Swedish)
+suspicious: khả nghi - misstänksam (Swedish)
+a hedge fund: 1 quỳ đầu tư, đầu cơ - en hedgefond (Swedish)
+fluctuate: dao động - fluktuera (Swedish)
+dividends: cổ tức - utdelningar (Swedish)
+concatenates: nối - sammafogar (Swedish)
+combine: kết hợp - kombinera (Swedish)
+suspect: nghi ngờ - misstänka (Swedish)
+short selling: bán khống - blankning (Swedish)
+sustainable: ổn định - hållbart (Swedish)
+invoke: gọi hồn - åberopa (Swedish)
+intermediate: trung cấp - mellanligande (Swedish)
+nuances: sắc thái - nuance (Swedish)
+provides: cung cấp - tillhandahåller (Swedish)
+accurate: chính xác - exakt (Swedish)
+advantage: lợi thế - fördela (Swedish)
+disadvantage: bất lợi thế - nackdela (Swedish)
+entry: ô nhập - 
+diploma: bằng cấp - diplom (Swedish)
+capita income: thu nhap dau nguoi - kapita inkomst (Swedish)
+good shooting - jädra skytte (Swedish)
+betrayer: kẻ phản bội - Svikare (Swedish)
+witness	: chứng kiến - bevittna (Swedish)
+attendance: có mặt, tham dự - närvaro (Swedish)
+bli för ivrig: phấn khích - get too excited
+athletes: vân động viên - atleter (Swedish)
+simreplexen: phanr xa boi loi
+hjulning: nhào lộn (Swedish) - rollning
+vansinnig(Swedish): nổi điên - insane
+bli bortdöma(Swedish): bị lên án
+omodel(Swedish): lỗi thời - unfashionable
+sufficient: đủ - tillräcklig (Swedish)
+insufficient: khong đủ - otillräcklig (Swedish)
+attempt: cố thử, thử - försök (Swedish)
+conducted: tiến hành - genomfördes (Swedish)
+conpensation: dền bù - ersättning (Swedish)
